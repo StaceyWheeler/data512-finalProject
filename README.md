@@ -4,6 +4,7 @@ This repository is for a project for DATA512. It addresses questions about the C
 
 The src folder contains two notebooks where I made graphs and did the analysis for these two research questions. Below is the repository structure:
 
+```
 .
 ├── A4_graph.png
 ├── DATA512_A5.pdf
@@ -20,3 +21,4 @@ The src folder contains two notebooks where I made graphs and did the analysis f
 └── src
     ├── DATA512_ExtensionA5_A7.ipynb
     └── data-512-finalProject.ipynb
+```
